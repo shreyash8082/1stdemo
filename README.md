@@ -1,2 +1,1 @@
-# 1stdemo
-My first created on 1 10 2023
+Created on  1*/*10/*2023
